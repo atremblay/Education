@@ -7,3 +7,9 @@
 [submodule "ThinkBayes"]
 	path = ThinkBayes
 	url = git@github.com:atremblay/ThinkBayes.git
+[submodule "DeepLearning"]
+	path = DeepLearning
+	url = git@github.com:atremblay/DeepLearning.git
+[submodule "MLND"]
+	path = MLND
+	url = git@github.com:atremblay/MLND.git
