@@ -1,3 +1,9 @@
 [submodule "BDA"]
 	path = BDA
 	url = git@github.com:atremblay/BDA.git
+[submodule "Think-Bayes"]
+	path = Think-Bayes
+	url = git@github.com:atremblay/Think-Bayes.git
+[submodule "ThinkBayes"]
+	path = ThinkBayes
+	url = git@github.com:atremblay/ThinkBayes.git
