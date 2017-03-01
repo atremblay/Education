@@ -13,3 +13,6 @@
 [submodule "MLND"]
 	path = MLND
 	url = git@github.com:atremblay/MLND.git
+[submodule "DeepLearningNanodegree"]
+	path = DeepLearningNanodegree
+	url = git@github.com:atremblay/DeepLearningNanodegree.git
