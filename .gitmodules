@@ -13,6 +13,9 @@
 [submodule "MLND"]
 	path = MLND
 	url = git@github.com:atremblay/MLND.git
+[submodule "ThinkBayes2"]
+	path = ThinkBayes2
+	url = git@github.com:atremblay/ThinkBayes2.git
 [submodule "DeepLearningNanodegree"]
 	path = DeepLearningNanodegree
 	url = git@github.com:atremblay/DeepLearningNanodegree.git
